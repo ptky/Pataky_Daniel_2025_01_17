@@ -61,5 +61,12 @@ p {
 }
 
 .jatek2 {
-    background-color: rgb(17, 17, 17);
+    background-color: rgb(45, 77, 95);
+    padding: 10px;
+}
+
+.tarolo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    box-sizing: border-box;
 }
