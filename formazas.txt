@@ -1,0 +1,47 @@
+Állíts be a teljes  oldalra
+    háttérképet, 
+    amelyik teljesen kitölti a rendelkezésére álló helyet.  (background-size: cover;)
+    A háttérszín legyen   color: rgb(255, 255, 255);
+    A betűtípis: Arial, sans-serif;
+    Az oldal maximális szélessége  1000px;
+    Legyen a böngésző közepére igazítva
+    
+A képek
+    Szélessége 400px;
+    Szegélyük 10px, folytonos, rgb(50, 48, 48) színű vonal
+    A szegély 15% -kal van lekerekítve.
+    A belső margó 10px
+
+
+
+A linkek szövege:
+    Legyen középre igazítva
+    A szöveg színe legyen halványszürke.
+    Ne jelenjen meg aláhúzás a linkeken
+    Adj hozzá 10px belső margót
+    Hozz létre egy 10 pixel széles, folytonos, szürke szegélyt.
+    A linkek sarkait kerekítsd 25%-os arányban.
+    Adj sötétszürke háttérszínt. rgb(50, 48, 48).
+    
+
+A főcím (h1) elemeinek stílusát az alábbi módon állítsd be:
+    Igazítsd középre a szöveget
+    Állítsd be a betűméretet 50 pixelre
+    Tegyél 30 pixel távolságot a betűk közé
+    Alakítsd nagybetűssé a szöveget
+    Adj hozzá 20 pixel belső margót
+
+Az alcímeket (h2) az alábbiak szerint formázd:
+    Adj 20 pixel belső margót
+    Adj hozzá 10 pixel felső és alsó külső margót
+    Állíts be sötétszürke háttérszínt
+    A sarkokat kerekítsd 5%-os arányban
+
+A szöveges tartalom (p elemek) formázása:
+    Igazítsd a szöveget sorkizártan
+    Állítsd be a betűméretet 15 pixelre
+    Használd a Rockwell betűtípust
+
+
+
+
