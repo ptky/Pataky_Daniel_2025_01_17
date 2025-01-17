@@ -49,3 +49,17 @@ p {
     font-size: 15px;
     font-family: Rockwell, Arial, Helvetica, sans-serif;
 }
+
+#menu {
+    background-color: rgb(206, 198, 198);
+    padding: 10px;
+}
+
+.jatek {
+    background-color: rgb(88, 87, 87);
+    padding: 10px;
+}
+
+.jatek2 {
+    background-color: rgb(17, 17, 17);
+}
